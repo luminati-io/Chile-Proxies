@@ -5,7 +5,7 @@
 ## Overview
 Experience seamless scraping with Bright Data's [Chile proxies](https://brightdata.com/locations/cl), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Chile and don't get blocked again.
 
-- **541,100M Chile proxy IPs**
+- **541,100K Chile proxy IPs**
 - **Sticky and rotating sessions**
 - **99.95% success rate**
 - **HTTP(S) & SOCKS5 support**
